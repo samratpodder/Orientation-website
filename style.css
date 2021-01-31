@@ -40,3 +40,15 @@ p{
 .dropdown{
 	margin-bottom: 1em;
 }
+#dropdownMenuLink{
+	background-color: #000;
+}
+#drop3{
+	background: linear-gradient(to top left, #66ffff 0%, #0066ff 100%);
+}
+#drop2{
+	background: linear-gradient(to top left, #66ffff 0%, #0066ff 100%);
+}
+#drop1{
+	background: linear-gradient(to top left, #66ffff 0%, #0066ff 100%);
+}
